@@ -20,6 +20,10 @@
                             <Label Text="{Binding ShortFact}"
                                    FontAttributes="Bold"
                                    FontSize="Medium" />
+
+                            <Image Source="{Binding TheImage}" 
+                                   Aspect="AspectFit"
+                                   HorizontalOptions="Center" />
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>

@@ -132,4 +132,19 @@
       <Name>About Me App</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\cats.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\gamesAndMovies.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ohs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\wctc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\me.PNG" />
+  </ItemGroup>
 </Project>
